@@ -14,7 +14,7 @@
 
 ## 1 - Introdução a C# e .NET
 
-- [x] 1 - Anotações Aulas [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/01-introducao-a-csharp-e-dotnet-aulas/PrimeiroPrograma/PrimeiroPrograma/Program.cs) :heavy_check_mark:
+- [x] 1 - Anotações Aulas [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/01-introducao-a-csharp-e-dotnet-aulas/Program.cs) :heavy_check_mark:
 
 ## 2 - Recapitulação de Lógica de Programação
 
