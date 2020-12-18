@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioMedio\SalarioMedio\bin\Debug\netcoreapp3.1\SalarioMedio.exe
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioMedio\SalarioMedio\bin\Debug\netcoreapp3.1\SalarioMedio.deps.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioMedio\SalarioMedio\bin\Debug\netcoreapp3.1\SalarioMedio.runtimeconfig.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioMedio\SalarioMedio\bin\Debug\netcoreapp3.1\SalarioMedio.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioMedio\SalarioMedio\bin\Debug\netcoreapp3.1\SalarioMedio.dll
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioMedio\SalarioMedio\bin\Debug\netcoreapp3.1\SalarioMedio.pdb
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioMedio\SalarioMedio\obj\Debug\netcoreapp3.1\SalarioMedio.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioMedio\SalarioMedio\obj\Debug\netcoreapp3.1\SalarioMedio.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioMedio\SalarioMedio\obj\Debug\netcoreapp3.1\SalarioMedio.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioMedio\SalarioMedio\obj\Debug\netcoreapp3.1\SalarioMedio.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioMedio\SalarioMedio\obj\Debug\netcoreapp3.1\SalarioMedio.dll
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioMedio\SalarioMedio\obj\Debug\netcoreapp3.1\SalarioMedio.pdb
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioMedio\SalarioMedio\obj\Debug\netcoreapp3.1\SalarioMedio.genruntimeconfig.cache

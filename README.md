@@ -16,10 +16,14 @@
 
 - [x] 1 - Anotações Aulas [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/01-introducao-a-csharp-e-dotnet-aulas/Program.cs) :heavy_check_mark:
 
-## 2 - Recapitulação de Lógica de Programação
+## 2 - Recapitulação de lógica de programação
 
-- [x] 1.1 - Anotações Aulas [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/02-recapitulacao-de-logica-aulas) :heavy_check_mark:
-- [x] 1.2 - Exercícios [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/02-recapitulacao-de-logica-exercicios) :heavy_check_mark:
+- [x] 2.1 - Anotações Aulas [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/02-recapitulacao-de-logica-aulas) :heavy_check_mark:
+- [x] 2.2 - Exercícios [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/02-recapitulacao-de-logica-exercicios) :heavy_check_mark:
+
+## 3 - Classes, atributos, métodos e membros estáticos
+- [x] 3.1 - Anotações Aulas [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/03-classes-atributos-metodos-membros-estaticos-aulas) :heavy_check_mark:
+- [x] 3.2 - Exercícios [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/03-classes-atributos-metodos-membros-estaticos-exercicios) :heavy_check_mark:
 
 <br>
 

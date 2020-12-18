@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\netcoreapp3.1\PessoaMaisVelha.exe
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\netcoreapp3.1\PessoaMaisVelha.deps.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\netcoreapp3.1\PessoaMaisVelha.runtimeconfig.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\netcoreapp3.1\PessoaMaisVelha.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\netcoreapp3.1\PessoaMaisVelha.dll
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\netcoreapp3.1\PessoaMaisVelha.pdb
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\netcoreapp3.1\PessoaMaisVelha.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\netcoreapp3.1\PessoaMaisVelha.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\netcoreapp3.1\PessoaMaisVelha.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\netcoreapp3.1\PessoaMaisVelha.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\netcoreapp3.1\PessoaMaisVelha.dll
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\netcoreapp3.1\PessoaMaisVelha.pdb
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\netcoreapp3.1\PessoaMaisVelha.genruntimeconfig.cache

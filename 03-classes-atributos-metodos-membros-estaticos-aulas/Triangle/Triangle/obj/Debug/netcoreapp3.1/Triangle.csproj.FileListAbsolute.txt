@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros estaticos\01-triangle-sem-poo\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.exe
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros estaticos\01-triangle-sem-poo\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.deps.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros estaticos\01-triangle-sem-poo\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros estaticos\01-triangle-sem-poo\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros estaticos\01-triangle-sem-poo\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.dll
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros estaticos\01-triangle-sem-poo\Triangle\Triangle\bin\Debug\netcoreapp3.1\Triangle.pdb
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros estaticos\01-triangle-sem-poo\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros estaticos\01-triangle-sem-poo\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros estaticos\01-triangle-sem-poo\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros estaticos\01-triangle-sem-poo\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros estaticos\01-triangle-sem-poo\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.dll
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros estaticos\01-triangle-sem-poo\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.pdb
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros estaticos\01-triangle-sem-poo\Triangle\Triangle\obj\Debug\netcoreapp3.1\Triangle.genruntimeconfig.cache
