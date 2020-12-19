@@ -26,6 +26,8 @@ namespace EntradaDados
             //Posso pegar vários valores de uma vez antes da quebra de linha
             //e distribuir para as variáveis usando o split e informando qual posição 
             //do vetor vai para tal variável
+            //Se eu digitar por exemplo 4 valores, mas só tiver 3 posições feitas na hora do split,
+            //não tem problema, mas se na hora que o split é feito, faltar variável para atribuir, dá erro.
             string[] vet = Console.ReadLine().Split(' ');
             string a = vet[0];
             string b = vet[1];
@@ -50,6 +52,7 @@ namespace EntradaDados
             double n1usa = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine(n1br.ToString("F2"));
+            //ou Console.WriteLine($"{n1br:F2}");
             Console.WriteLine(n1usa.ToString("F2"), CultureInfo.InvariantCulture);
 
             //Ler do teclado no formato abaixo:

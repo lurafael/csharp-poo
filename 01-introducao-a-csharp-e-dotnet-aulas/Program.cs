@@ -1,7 +1,7 @@
 ﻿using System;
 //O using faz referência ao namespace chamado System (que é um namespace padrão do .NET, que contém
 //funções básicas de manipulação de programas, então para usar essas funções como por exemplo o
-//Console.WriteLine()).
+//Console.WriteLine()), precisamos importar esse namespace.
 
 namespace PrimeiroPrograma //Programa Program está dentro desse namespace PrimeiroPrograma
 {

@@ -39,11 +39,12 @@ namespace OperadoresAritAtrib
 
             //Pré e pós incremento
             int incremento = 10;
-            int preIncremento = --incremento; //Decrementa a variável incremento e joga para a variável preIncremento
+            int preIncremento = --incremento; //Decrementa a variável incremento e joga ela para a variável preIncremento
             Console.WriteLine("Pré incremento: " + preIncremento);
 
             incremento = 10;
-            int posIncremento = incremento--; //Joga o incremento para preIncremento e decrementa a variável incremento
+            int posIncremento = incremento--; //Joga o incremento para posIncremento e decrementa a variável incremento
+
             Console.WriteLine("Pós incremento: " + posIncremento);
             Console.WriteLine("Pré incremento: " + posIncremento);
         }
