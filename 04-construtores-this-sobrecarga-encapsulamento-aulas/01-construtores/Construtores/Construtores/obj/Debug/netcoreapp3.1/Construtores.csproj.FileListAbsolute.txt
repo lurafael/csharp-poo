@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\01-construtores\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.exe
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\01-construtores\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.deps.json
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\01-construtores\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.json
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\01-construtores\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\01-construtores\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.dll
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\01-construtores\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.pdb
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\01-construtores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\01-construtores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\01-construtores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\01-construtores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\01-construtores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.dll
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\01-construtores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.pdb
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\01-construtores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.genruntimeconfig.cache

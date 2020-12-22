@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\NotasAluno\NotasAluno\bin\Debug\netcoreapp3.1\NotasAluno.exe
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\NotasAluno\NotasAluno\bin\Debug\netcoreapp3.1\NotasAluno.deps.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\NotasAluno\NotasAluno\bin\Debug\netcoreapp3.1\NotasAluno.runtimeconfig.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\NotasAluno\NotasAluno\bin\Debug\netcoreapp3.1\NotasAluno.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\NotasAluno\NotasAluno\bin\Debug\netcoreapp3.1\NotasAluno.dll
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\NotasAluno\NotasAluno\bin\Debug\netcoreapp3.1\NotasAluno.pdb
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\NotasAluno\NotasAluno\obj\Debug\netcoreapp3.1\NotasAluno.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\NotasAluno\NotasAluno\obj\Debug\netcoreapp3.1\NotasAluno.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\NotasAluno\NotasAluno\obj\Debug\netcoreapp3.1\NotasAluno.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\NotasAluno\NotasAluno\obj\Debug\netcoreapp3.1\NotasAluno.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\NotasAluno\NotasAluno\obj\Debug\netcoreapp3.1\NotasAluno.dll
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\NotasAluno\NotasAluno\obj\Debug\netcoreapp3.1\NotasAluno.pdb
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\NotasAluno\NotasAluno\obj\Debug\netcoreapp3.1\NotasAluno.genruntimeconfig.cache

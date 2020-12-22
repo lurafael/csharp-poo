@@ -25,6 +25,10 @@
 - [x] 3.1 - Anotações Aulas [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/03-classes-atributos-metodos-membros-estaticos-aulas) :heavy_check_mark:
 - [x] 3.2 - Exercícios [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/03-classes-atributos-metodos-membros-estaticos-exercicios) :heavy_check_mark:
 
+## 4 - Construtores, this, sobrecarga e encapsulamento
+- [x] 4.1 - Anotações Aulas [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/04-construtores-this-sobrecarga-encapsulamento-aulas) :heavy_check_mark:
+- [x] 4.2 - Exercícios [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/04-construtores-this-sobrecarga-encapsulamento-exercicios) :heavy_check_mark:
+
 <br>
 
 Feito com :purple_heart: by [Lucas Ricci](https://www.linkedin.com/in/lucasrafaelricci/).

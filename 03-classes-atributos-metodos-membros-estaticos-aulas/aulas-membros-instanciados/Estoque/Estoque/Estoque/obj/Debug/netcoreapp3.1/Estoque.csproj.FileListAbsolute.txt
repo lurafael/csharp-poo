@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-aulas\Estoque\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.exe
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-aulas\Estoque\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.deps.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-aulas\Estoque\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.runtimeconfig.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-aulas\Estoque\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-aulas\Estoque\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.dll
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-aulas\Estoque\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.pdb
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-aulas\Estoque\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-aulas\Estoque\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-aulas\Estoque\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-aulas\Estoque\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-aulas\Estoque\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.dll
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-aulas\Estoque\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.pdb
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-aulas\Estoque\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\ValoresRetangulo\ValoresRetangulo\bin\Debug\netcoreapp3.1\ValoresRetangulo.exe
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\ValoresRetangulo\ValoresRetangulo\bin\Debug\netcoreapp3.1\ValoresRetangulo.deps.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\ValoresRetangulo\ValoresRetangulo\bin\Debug\netcoreapp3.1\ValoresRetangulo.runtimeconfig.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\ValoresRetangulo\ValoresRetangulo\bin\Debug\netcoreapp3.1\ValoresRetangulo.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\ValoresRetangulo\ValoresRetangulo\bin\Debug\netcoreapp3.1\ValoresRetangulo.dll
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\ValoresRetangulo\ValoresRetangulo\bin\Debug\netcoreapp3.1\ValoresRetangulo.pdb
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\ValoresRetangulo\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\ValoresRetangulo\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\ValoresRetangulo\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\ValoresRetangulo\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\ValoresRetangulo\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.dll
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\ValoresRetangulo\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.pdb
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\ValoresRetangulo\ValoresRetangulo\obj\Debug\netcoreapp3.1\ValoresRetangulo.genruntimeconfig.cache

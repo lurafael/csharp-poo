@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioFuncionario\SalarioFuncionario\bin\Debug\netcoreapp3.1\SalarioFuncionario.exe
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioFuncionario\SalarioFuncionario\bin\Debug\netcoreapp3.1\SalarioFuncionario.deps.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioFuncionario\SalarioFuncionario\bin\Debug\netcoreapp3.1\SalarioFuncionario.runtimeconfig.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioFuncionario\SalarioFuncionario\bin\Debug\netcoreapp3.1\SalarioFuncionario.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioFuncionario\SalarioFuncionario\bin\Debug\netcoreapp3.1\SalarioFuncionario.dll
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioFuncionario\SalarioFuncionario\bin\Debug\netcoreapp3.1\SalarioFuncionario.pdb
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioFuncionario\SalarioFuncionario\obj\Debug\netcoreapp3.1\SalarioFuncionario.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioFuncionario\SalarioFuncionario\obj\Debug\netcoreapp3.1\SalarioFuncionario.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioFuncionario\SalarioFuncionario\obj\Debug\netcoreapp3.1\SalarioFuncionario.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioFuncionario\SalarioFuncionario\obj\Debug\netcoreapp3.1\SalarioFuncionario.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioFuncionario\SalarioFuncionario\obj\Debug\netcoreapp3.1\SalarioFuncionario.dll
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioFuncionario\SalarioFuncionario\obj\Debug\netcoreapp3.1\SalarioFuncionario.pdb
+D:\repositorios-github\csharp-poo\03-classes-atributos-metodos-membros-estaticos-exercicios\SalarioFuncionario\SalarioFuncionario\obj\Debug\netcoreapp3.1\SalarioFuncionario.genruntimeconfig.cache
