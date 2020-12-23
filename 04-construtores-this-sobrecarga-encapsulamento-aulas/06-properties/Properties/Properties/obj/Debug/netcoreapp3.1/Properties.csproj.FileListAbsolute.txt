@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\06-properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\06-properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\06-properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\06-properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\06-properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\06-properties\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\06-properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\06-properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\06-properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\06-properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\06-properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\06-properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\06-properties\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache

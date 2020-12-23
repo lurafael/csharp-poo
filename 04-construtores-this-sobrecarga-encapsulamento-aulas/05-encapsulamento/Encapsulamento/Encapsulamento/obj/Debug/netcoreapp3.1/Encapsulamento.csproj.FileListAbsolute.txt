@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\05-encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.exe
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\05-encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.deps.json
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\05-encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.json
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\05-encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\05-encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\05-encapsulamento\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\05-encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\05-encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\05-encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\05-encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\05-encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.dll
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\05-encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.pdb
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-aulas\05-encapsulamento\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.genruntimeconfig.cache
