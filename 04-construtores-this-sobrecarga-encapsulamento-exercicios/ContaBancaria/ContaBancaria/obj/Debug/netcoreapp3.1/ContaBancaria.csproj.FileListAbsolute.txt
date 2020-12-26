@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-exercicios\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.exe
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-exercicios\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.deps.json
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-exercicios\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.runtimeconfig.json
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-exercicios\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-exercicios\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.dll
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-exercicios\ContaBancaria\ContaBancaria\bin\Debug\netcoreapp3.1\ContaBancaria.pdb
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-exercicios\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-exercicios\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-exercicios\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-exercicios\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-exercicios\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.dll
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-exercicios\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.pdb
+D:\repositorios-github\csharp-poo\04-construtores-this-sobrecarga-encapsulamento-exercicios\ContaBancaria\ContaBancaria\obj\Debug\netcoreapp3.1\ContaBancaria.genruntimeconfig.cache
