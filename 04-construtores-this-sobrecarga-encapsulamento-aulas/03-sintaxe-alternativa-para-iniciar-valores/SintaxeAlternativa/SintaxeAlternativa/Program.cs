@@ -4,7 +4,7 @@
 using System;
 using System.Globalization;
 
-namespace Sobrecarga {
+namespace SintaxeAlternativa {
     class Program {
         static void Main(string[] args) {
 

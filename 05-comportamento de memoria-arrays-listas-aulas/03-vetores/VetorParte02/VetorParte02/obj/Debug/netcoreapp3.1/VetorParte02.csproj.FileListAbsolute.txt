@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\03-vetores\VetorParte02\VetorParte02\bin\Debug\netcoreapp3.1\VetorParte02.exe
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\03-vetores\VetorParte02\VetorParte02\bin\Debug\netcoreapp3.1\VetorParte02.deps.json
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\03-vetores\VetorParte02\VetorParte02\bin\Debug\netcoreapp3.1\VetorParte02.runtimeconfig.json
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\03-vetores\VetorParte02\VetorParte02\bin\Debug\netcoreapp3.1\VetorParte02.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\03-vetores\VetorParte02\VetorParte02\bin\Debug\netcoreapp3.1\VetorParte02.dll
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\03-vetores\VetorParte02\VetorParte02\bin\Debug\netcoreapp3.1\VetorParte02.pdb
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\03-vetores\VetorParte02\VetorParte02\obj\Debug\netcoreapp3.1\VetorParte02.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\03-vetores\VetorParte02\VetorParte02\obj\Debug\netcoreapp3.1\VetorParte02.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\03-vetores\VetorParte02\VetorParte02\obj\Debug\netcoreapp3.1\VetorParte02.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\03-vetores\VetorParte02\VetorParte02\obj\Debug\netcoreapp3.1\VetorParte02.dll
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\03-vetores\VetorParte02\VetorParte02\obj\Debug\netcoreapp3.1\VetorParte02.pdb
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\03-vetores\VetorParte02\VetorParte02\obj\Debug\netcoreapp3.1\VetorParte02.genruntimeconfig.cache
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\03-vetores\VetorParte02\VetorParte02\obj\Debug\netcoreapp3.1\VetorParte02.csprojAssemblyReference.cache

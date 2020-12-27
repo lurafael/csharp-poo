@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\01-tipos-referencia-e-tipo-valor\ReferenciaValor\ReferenciaValor\bin\Debug\netcoreapp3.1\ReferenciaValor.exe
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\01-tipos-referencia-e-tipo-valor\ReferenciaValor\ReferenciaValor\bin\Debug\netcoreapp3.1\ReferenciaValor.deps.json
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\01-tipos-referencia-e-tipo-valor\ReferenciaValor\ReferenciaValor\bin\Debug\netcoreapp3.1\ReferenciaValor.runtimeconfig.json
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\01-tipos-referencia-e-tipo-valor\ReferenciaValor\ReferenciaValor\bin\Debug\netcoreapp3.1\ReferenciaValor.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\01-tipos-referencia-e-tipo-valor\ReferenciaValor\ReferenciaValor\bin\Debug\netcoreapp3.1\ReferenciaValor.dll
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\01-tipos-referencia-e-tipo-valor\ReferenciaValor\ReferenciaValor\bin\Debug\netcoreapp3.1\ReferenciaValor.pdb
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\01-tipos-referencia-e-tipo-valor\ReferenciaValor\ReferenciaValor\obj\Debug\netcoreapp3.1\ReferenciaValor.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\01-tipos-referencia-e-tipo-valor\ReferenciaValor\ReferenciaValor\obj\Debug\netcoreapp3.1\ReferenciaValor.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\01-tipos-referencia-e-tipo-valor\ReferenciaValor\ReferenciaValor\obj\Debug\netcoreapp3.1\ReferenciaValor.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\01-tipos-referencia-e-tipo-valor\ReferenciaValor\ReferenciaValor\obj\Debug\netcoreapp3.1\ReferenciaValor.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\01-tipos-referencia-e-tipo-valor\ReferenciaValor\ReferenciaValor\obj\Debug\netcoreapp3.1\ReferenciaValor.dll
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\01-tipos-referencia-e-tipo-valor\ReferenciaValor\ReferenciaValor\obj\Debug\netcoreapp3.1\ReferenciaValor.pdb
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\01-tipos-referencia-e-tipo-valor\ReferenciaValor\ReferenciaValor\obj\Debug\netcoreapp3.1\ReferenciaValor.genruntimeconfig.cache

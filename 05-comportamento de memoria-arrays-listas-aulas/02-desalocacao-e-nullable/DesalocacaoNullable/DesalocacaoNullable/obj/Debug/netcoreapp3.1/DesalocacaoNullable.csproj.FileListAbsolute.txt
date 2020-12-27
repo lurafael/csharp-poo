@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\02-desalocacao-e-nullable\DesalocacaoNullable\DesalocacaoNullable\bin\Debug\netcoreapp3.1\DesalocacaoNullable.exe
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\02-desalocacao-e-nullable\DesalocacaoNullable\DesalocacaoNullable\bin\Debug\netcoreapp3.1\DesalocacaoNullable.deps.json
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\02-desalocacao-e-nullable\DesalocacaoNullable\DesalocacaoNullable\bin\Debug\netcoreapp3.1\DesalocacaoNullable.runtimeconfig.json
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\02-desalocacao-e-nullable\DesalocacaoNullable\DesalocacaoNullable\bin\Debug\netcoreapp3.1\DesalocacaoNullable.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\02-desalocacao-e-nullable\DesalocacaoNullable\DesalocacaoNullable\bin\Debug\netcoreapp3.1\DesalocacaoNullable.dll
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\02-desalocacao-e-nullable\DesalocacaoNullable\DesalocacaoNullable\bin\Debug\netcoreapp3.1\DesalocacaoNullable.pdb
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\02-desalocacao-e-nullable\DesalocacaoNullable\DesalocacaoNullable\obj\Debug\netcoreapp3.1\DesalocacaoNullable.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\02-desalocacao-e-nullable\DesalocacaoNullable\DesalocacaoNullable\obj\Debug\netcoreapp3.1\DesalocacaoNullable.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\02-desalocacao-e-nullable\DesalocacaoNullable\DesalocacaoNullable\obj\Debug\netcoreapp3.1\DesalocacaoNullable.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\02-desalocacao-e-nullable\DesalocacaoNullable\DesalocacaoNullable\obj\Debug\netcoreapp3.1\DesalocacaoNullable.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\02-desalocacao-e-nullable\DesalocacaoNullable\DesalocacaoNullable\obj\Debug\netcoreapp3.1\DesalocacaoNullable.dll
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\02-desalocacao-e-nullable\DesalocacaoNullable\DesalocacaoNullable\obj\Debug\netcoreapp3.1\DesalocacaoNullable.pdb
+D:\repositorios-github\csharp-poo\06-comportamento de memoria-arrays-listas-aulas\02-desalocacao-e-nullable\DesalocacaoNullable\DesalocacaoNullable\obj\Debug\netcoreapp3.1\DesalocacaoNullable.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VetorParte02/1.0.0": {
+        "runtime": {
+          "VetorParte02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VetorParte02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

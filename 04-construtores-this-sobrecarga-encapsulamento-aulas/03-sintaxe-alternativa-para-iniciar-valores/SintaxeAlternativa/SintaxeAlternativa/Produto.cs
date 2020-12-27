@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace Sobrecarga {
+namespace SintaxeAlternativa {
     class Produto {
         public string Nome;
         public double Preco;

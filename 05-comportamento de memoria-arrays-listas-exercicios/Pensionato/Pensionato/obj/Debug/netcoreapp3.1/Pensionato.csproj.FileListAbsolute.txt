@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\Pensionato\Pensionato\bin\Debug\netcoreapp3.1\Pensionato.exe
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\Pensionato\Pensionato\bin\Debug\netcoreapp3.1\Pensionato.deps.json
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\Pensionato\Pensionato\bin\Debug\netcoreapp3.1\Pensionato.runtimeconfig.json
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\Pensionato\Pensionato\bin\Debug\netcoreapp3.1\Pensionato.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\Pensionato\Pensionato\bin\Debug\netcoreapp3.1\Pensionato.dll
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\Pensionato\Pensionato\bin\Debug\netcoreapp3.1\Pensionato.pdb
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\Pensionato\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\Pensionato\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\Pensionato\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\Pensionato\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\Pensionato\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.dll
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\Pensionato\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.pdb
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\Pensionato\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.genruntimeconfig.cache
