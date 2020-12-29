@@ -1,15 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Pensionato {
-    class Student {
+    class Bedroom {
         public string Name { get; set; }
         public string Email { get; set; }
 
-        public Student(string name, string email) {
+        public Bedroom(string name, string email) {
             Name = name;
             Email = email;
         }
     }
 }
+

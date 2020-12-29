@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\08-listas\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.exe
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\08-listas\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.deps.json
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\08-listas\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.json
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\08-listas\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\08-listas\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.dll
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\08-listas\Listas\Listas\bin\Debug\netcoreapp3.1\Listas.pdb
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\08-listas\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\08-listas\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\08-listas\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\08-listas\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\08-listas\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.dll
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\08-listas\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.pdb
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\08-listas\Listas\Listas\obj\Debug\netcoreapp3.1\Listas.genruntimeconfig.cache

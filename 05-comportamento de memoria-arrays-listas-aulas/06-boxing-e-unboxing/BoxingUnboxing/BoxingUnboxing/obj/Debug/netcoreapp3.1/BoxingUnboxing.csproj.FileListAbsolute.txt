@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\06-boxing-e-unboxing\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.exe
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\06-boxing-e-unboxing\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.deps.json
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\06-boxing-e-unboxing\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.runtimeconfig.json
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\06-boxing-e-unboxing\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\06-boxing-e-unboxing\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.dll
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\06-boxing-e-unboxing\BoxingUnboxing\BoxingUnboxing\bin\Debug\netcoreapp3.1\BoxingUnboxing.pdb
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\06-boxing-e-unboxing\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\06-boxing-e-unboxing\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\06-boxing-e-unboxing\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\06-boxing-e-unboxing\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\06-boxing-e-unboxing\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.dll
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\06-boxing-e-unboxing\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.pdb
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\06-boxing-e-unboxing\BoxingUnboxing\BoxingUnboxing\obj\Debug\netcoreapp3.1\BoxingUnboxing.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\05-modificador-de-parametros-ref-e-out\RefOut\RefOut\bin\Debug\netcoreapp3.1\RefOut.exe
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\05-modificador-de-parametros-ref-e-out\RefOut\RefOut\bin\Debug\netcoreapp3.1\RefOut.deps.json
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\05-modificador-de-parametros-ref-e-out\RefOut\RefOut\bin\Debug\netcoreapp3.1\RefOut.runtimeconfig.json
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\05-modificador-de-parametros-ref-e-out\RefOut\RefOut\bin\Debug\netcoreapp3.1\RefOut.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\05-modificador-de-parametros-ref-e-out\RefOut\RefOut\bin\Debug\netcoreapp3.1\RefOut.dll
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\05-modificador-de-parametros-ref-e-out\RefOut\RefOut\bin\Debug\netcoreapp3.1\RefOut.pdb
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\05-modificador-de-parametros-ref-e-out\RefOut\RefOut\obj\Debug\netcoreapp3.1\RefOut.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\05-modificador-de-parametros-ref-e-out\RefOut\RefOut\obj\Debug\netcoreapp3.1\RefOut.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\05-modificador-de-parametros-ref-e-out\RefOut\RefOut\obj\Debug\netcoreapp3.1\RefOut.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\05-modificador-de-parametros-ref-e-out\RefOut\RefOut\obj\Debug\netcoreapp3.1\RefOut.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\05-modificador-de-parametros-ref-e-out\RefOut\RefOut\obj\Debug\netcoreapp3.1\RefOut.dll
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\05-modificador-de-parametros-ref-e-out\RefOut\RefOut\obj\Debug\netcoreapp3.1\RefOut.pdb
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\05-modificador-de-parametros-ref-e-out\RefOut\RefOut\obj\Debug\netcoreapp3.1\RefOut.genruntimeconfig.cache
