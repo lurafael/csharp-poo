@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\09-matrizes\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.exe
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\09-matrizes\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.deps.json
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\09-matrizes\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.runtimeconfig.json
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\09-matrizes\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\09-matrizes\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.dll
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\09-matrizes\Matrizes\Matrizes\bin\Debug\netcoreapp3.1\Matrizes.pdb
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\09-matrizes\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\09-matrizes\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\09-matrizes\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\09-matrizes\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.dll
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\09-matrizes\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.pdb
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\09-matrizes\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.genruntimeconfig.cache
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-aulas\09-matrizes\Matrizes\Matrizes\obj\Debug\netcoreapp3.1\Matrizes.csprojAssemblyReference.cache

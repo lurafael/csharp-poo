@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\06-enumeracoes-e-composicao\01-enumeracoes-enum\EnumeracoesEnum\EnumeracoesEnum\bin\Debug\netcoreapp3.1\EnumeracoesEnum.exe
+D:\repositorios-github\csharp-poo\06-enumeracoes-e-composicao\01-enumeracoes-enum\EnumeracoesEnum\EnumeracoesEnum\bin\Debug\netcoreapp3.1\EnumeracoesEnum.deps.json
+D:\repositorios-github\csharp-poo\06-enumeracoes-e-composicao\01-enumeracoes-enum\EnumeracoesEnum\EnumeracoesEnum\bin\Debug\netcoreapp3.1\EnumeracoesEnum.runtimeconfig.json
+D:\repositorios-github\csharp-poo\06-enumeracoes-e-composicao\01-enumeracoes-enum\EnumeracoesEnum\EnumeracoesEnum\bin\Debug\netcoreapp3.1\EnumeracoesEnum.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\06-enumeracoes-e-composicao\01-enumeracoes-enum\EnumeracoesEnum\EnumeracoesEnum\bin\Debug\netcoreapp3.1\EnumeracoesEnum.dll
+D:\repositorios-github\csharp-poo\06-enumeracoes-e-composicao\01-enumeracoes-enum\EnumeracoesEnum\EnumeracoesEnum\bin\Debug\netcoreapp3.1\EnumeracoesEnum.pdb
+D:\repositorios-github\csharp-poo\06-enumeracoes-e-composicao\01-enumeracoes-enum\EnumeracoesEnum\EnumeracoesEnum\obj\Debug\netcoreapp3.1\EnumeracoesEnum.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\06-enumeracoes-e-composicao\01-enumeracoes-enum\EnumeracoesEnum\EnumeracoesEnum\obj\Debug\netcoreapp3.1\EnumeracoesEnum.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\06-enumeracoes-e-composicao\01-enumeracoes-enum\EnumeracoesEnum\EnumeracoesEnum\obj\Debug\netcoreapp3.1\EnumeracoesEnum.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\06-enumeracoes-e-composicao\01-enumeracoes-enum\EnumeracoesEnum\EnumeracoesEnum\obj\Debug\netcoreapp3.1\EnumeracoesEnum.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\06-enumeracoes-e-composicao\01-enumeracoes-enum\EnumeracoesEnum\EnumeracoesEnum\obj\Debug\netcoreapp3.1\EnumeracoesEnum.dll
+D:\repositorios-github\csharp-poo\06-enumeracoes-e-composicao\01-enumeracoes-enum\EnumeracoesEnum\EnumeracoesEnum\obj\Debug\netcoreapp3.1\EnumeracoesEnum.pdb
+D:\repositorios-github\csharp-poo\06-enumeracoes-e-composicao\01-enumeracoes-enum\EnumeracoesEnum\EnumeracoesEnum\obj\Debug\netcoreapp3.1\EnumeracoesEnum.genruntimeconfig.cache

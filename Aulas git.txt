@@ -1,0 +1,54 @@
+Para sair do editor vim:
+comando = :q!
+
+Para ver o log em uma linha e resumido
+git log --oneline
+
+Para ver o log mais detalhado
+git log
+---------
+Descartar todas as alterações feitas, voltar ao estado que estava o último commit
+*Usar em caso de não gostar de alterações feitas, se perder e tal
+git clean -df
+git checkout -- .
+---------
+Remover o último commit mantendo as alterações nos arquivos:
+git reset --soft HEAD~1 		
+
+*Basicamente passa a apontar para o commit definido no HEAD~número, onde número
+vai o valor da posição da fila que preciso alterar, se eu usar o 1 vai reverter 
+para o último commit feito antes do atual, HEAD~3 há 3 commits atrás e assim por
+diante...
+
+Remover o último commit INCLUSIVE as alterações nos arquivos
+git reset --hard HEAD~1 
+
+*A diferença de um para o outro é que o modo soft só aponta para o commit desejado
+e quando for feito o commit novo, passa a ser o atual substituindo a mensagem errada,
+sem ter alterado nenhum arquivo.
+Já o hard substitui todos os arquivos pelos arquivos do commit que foi especificado no HEAD~num,
+volta na linha do tempo como se tivesse sido feito naquela hora.
+---------
+Para navegar temporariamente nas versões anteriores ao commit atual:
+git checkout <código do commit>
+
+Para voltar ao último commit do branch depois de ver o que queria:
+git checkout <nome do branch>
+
+*usando o git log --oneline dá pra ver o código mais tranquilamente
+---------
+Associar um repositório local para um repositório remoto
+git remote add origin <URI do repositório remoto>
+
+Associar o repositório local a um outro repositório remoto, mas mater o apelido:
+git remote set-url origin <URI do repositório remoto>
+---------
+Atualizar o repositório remoto
+git push origin master
+*Depois do primeiro commit, posso usar só o git push
+
+Atualizar o repositório local
+git pull origin master
+
+
+

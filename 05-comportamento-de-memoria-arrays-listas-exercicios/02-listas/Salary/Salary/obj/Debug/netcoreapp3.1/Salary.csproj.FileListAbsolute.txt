@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\02-listas\Salary\Salary\bin\Debug\netcoreapp3.1\Salary.exe
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\02-listas\Salary\Salary\bin\Debug\netcoreapp3.1\Salary.deps.json
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\02-listas\Salary\Salary\bin\Debug\netcoreapp3.1\Salary.runtimeconfig.json
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\02-listas\Salary\Salary\bin\Debug\netcoreapp3.1\Salary.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\02-listas\Salary\Salary\bin\Debug\netcoreapp3.1\Salary.dll
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\02-listas\Salary\Salary\bin\Debug\netcoreapp3.1\Salary.pdb
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\02-listas\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\02-listas\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\02-listas\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\02-listas\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\02-listas\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.dll
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\02-listas\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.pdb
+D:\repositorios-github\csharp-poo\05-comportamento de memoria-arrays-listas-exercicios\02-listas\Salary\Salary\obj\Debug\netcoreapp3.1\Salary.genruntimeconfig.cache

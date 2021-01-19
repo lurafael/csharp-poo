@@ -29,6 +29,14 @@
 - [x] 4.1 - Anotações Aulas [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/04-construtores-this-sobrecarga-encapsulamento-aulas) :heavy_check_mark:
 - [x] 4.2 - Exercícios [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/04-construtores-this-sobrecarga-encapsulamento-exercicios) :heavy_check_mark:
 
+## 5 - Comportamento de memoria, arrays, listas
+- [x] 5.1 - Anotações Aulas [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/05-comportamento-de-memoria-arrays-listas-aulas) :heavy_check_mark:
+- [x] 5.2 - Exercícios [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/05-comportamento-de-memoria-arrays-listas-exercicios) :heavy_check_mark:
+
+## 6 - Enumeração e Composição
+- [x] 6.1 - Anotações Aulas [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/06-enumeracao-e-composicao-aulas) :heavy_check_mark:
+- [x] 6.2 - Exercícios [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/06-enumeracao-e-composicao-exercicios) :heavy_check_mark:
+
 <br>
 
 Feito com :purple_heart: by [Lucas Ricci](https://www.linkedin.com/in/lucasrafaelricci/).
