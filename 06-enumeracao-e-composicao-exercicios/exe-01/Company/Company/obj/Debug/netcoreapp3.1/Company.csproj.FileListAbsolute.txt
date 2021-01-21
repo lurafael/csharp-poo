@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-01\Company\Company\bin\Debug\netcoreapp3.1\Company.exe
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-01\Company\Company\bin\Debug\netcoreapp3.1\Company.deps.json
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-01\Company\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.json
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-01\Company\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-01\Company\Company\bin\Debug\netcoreapp3.1\Company.dll
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-01\Company\Company\bin\Debug\netcoreapp3.1\Company.pdb
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-01\Company\Company\obj\Debug\netcoreapp3.1\Company.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-01\Company\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-01\Company\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-01\Company\Company\obj\Debug\netcoreapp3.1\Company.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-01\Company\Company\obj\Debug\netcoreapp3.1\Company.dll
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-01\Company\Company\obj\Debug\netcoreapp3.1\Company.pdb
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-01\Company\Company\obj\Debug\netcoreapp3.1\Company.genruntimeconfig.cache
