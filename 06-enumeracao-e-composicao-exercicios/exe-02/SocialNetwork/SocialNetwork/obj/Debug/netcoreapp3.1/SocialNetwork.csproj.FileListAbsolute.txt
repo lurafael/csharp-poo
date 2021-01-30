@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-02\SocialNetwork\SocialNetwork\bin\Debug\netcoreapp3.1\SocialNetwork.exe
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-02\SocialNetwork\SocialNetwork\bin\Debug\netcoreapp3.1\SocialNetwork.deps.json
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-02\SocialNetwork\SocialNetwork\bin\Debug\netcoreapp3.1\SocialNetwork.runtimeconfig.json
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-02\SocialNetwork\SocialNetwork\bin\Debug\netcoreapp3.1\SocialNetwork.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-02\SocialNetwork\SocialNetwork\bin\Debug\netcoreapp3.1\SocialNetwork.dll
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-02\SocialNetwork\SocialNetwork\bin\Debug\netcoreapp3.1\SocialNetwork.pdb
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-02\SocialNetwork\SocialNetwork\obj\Debug\netcoreapp3.1\SocialNetwork.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-02\SocialNetwork\SocialNetwork\obj\Debug\netcoreapp3.1\SocialNetwork.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-02\SocialNetwork\SocialNetwork\obj\Debug\netcoreapp3.1\SocialNetwork.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-02\SocialNetwork\SocialNetwork\obj\Debug\netcoreapp3.1\SocialNetwork.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-02\SocialNetwork\SocialNetwork\obj\Debug\netcoreapp3.1\SocialNetwork.dll
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-02\SocialNetwork\SocialNetwork\obj\Debug\netcoreapp3.1\SocialNetwork.pdb
+D:\repositorios-github\csharp-poo\06-enumeracao-e-composicao-exercicios\exe-02\SocialNetwork\SocialNetwork\obj\Debug\netcoreapp3.1\SocialNetwork.genruntimeconfig.cache
