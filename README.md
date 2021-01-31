@@ -37,6 +37,9 @@
 - [x] 6.1 - Anotações Aulas [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/06-enumeracao-e-composicao-aulas) :heavy_check_mark:
 - [x] 6.2 - Exercícios [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/06-enumeracao-e-composicao-exercicios) :heavy_check_mark:
 
+## 7 - Herança e Polimorfismo
+- [x] Exemplos e exercícios resolvidos [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/07-heranca-e-polimorfismo) :heavy_check_mark:
+
 <br>
 
 Feito com :purple_heart: by [Lucas Ricci](https://www.linkedin.com/in/lucasrafaelricci/).
