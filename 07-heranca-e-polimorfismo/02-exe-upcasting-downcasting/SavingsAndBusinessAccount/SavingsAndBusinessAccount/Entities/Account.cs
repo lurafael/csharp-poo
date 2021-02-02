@@ -19,12 +19,12 @@
 
         public void Withdraw(double amount)
         {
-            Balance += amount;
+            Balance -= amount;
         }
 
         public void Deposit(double amount)
         {
-            Balance -= amount;
+            Balance += amount;
         }
 
     }
