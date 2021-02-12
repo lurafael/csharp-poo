@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Figures\Figures\bin\Debug\netcoreapp3.1\Figures.exe
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Figures\Figures\bin\Debug\netcoreapp3.1\Figures.deps.json
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Figures\Figures\bin\Debug\netcoreapp3.1\Figures.runtimeconfig.json
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Figures\Figures\bin\Debug\netcoreapp3.1\Figures.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Figures\Figures\bin\Debug\netcoreapp3.1\Figures.dll
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Figures\Figures\bin\Debug\netcoreapp3.1\Figures.pdb
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Figures\Figures\obj\Debug\netcoreapp3.1\Figures.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Figures\Figures\obj\Debug\netcoreapp3.1\Figures.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Figures\Figures\obj\Debug\netcoreapp3.1\Figures.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Figures\Figures\obj\Debug\netcoreapp3.1\Figures.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Figures\Figures\obj\Debug\netcoreapp3.1\Figures.dll
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Figures\Figures\obj\Debug\netcoreapp3.1\Figures.pdb
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Figures\Figures\obj\Debug\netcoreapp3.1\Figures.genruntimeconfig.cache
