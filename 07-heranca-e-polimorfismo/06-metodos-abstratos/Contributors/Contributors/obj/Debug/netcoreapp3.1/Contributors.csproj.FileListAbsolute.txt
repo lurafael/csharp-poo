@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Contributors\Contributors\bin\Debug\netcoreapp3.1\Contributors.exe
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Contributors\Contributors\bin\Debug\netcoreapp3.1\Contributors.deps.json
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Contributors\Contributors\bin\Debug\netcoreapp3.1\Contributors.runtimeconfig.json
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Contributors\Contributors\bin\Debug\netcoreapp3.1\Contributors.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Contributors\Contributors\bin\Debug\netcoreapp3.1\Contributors.dll
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Contributors\Contributors\bin\Debug\netcoreapp3.1\Contributors.pdb
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Contributors\Contributors\obj\Debug\netcoreapp3.1\Contributors.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Contributors\Contributors\obj\Debug\netcoreapp3.1\Contributors.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Contributors\Contributors\obj\Debug\netcoreapp3.1\Contributors.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Contributors\Contributors\obj\Debug\netcoreapp3.1\Contributors.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Contributors\Contributors\obj\Debug\netcoreapp3.1\Contributors.dll
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Contributors\Contributors\obj\Debug\netcoreapp3.1\Contributors.pdb
+D:\repositorios-github\csharp-poo\07-heranca-e-polimorfismo\06-metodos-abstratos\Contributors\Contributors\obj\Debug\netcoreapp3.1\Contributors.genruntimeconfig.cache
