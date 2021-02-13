@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\02-exe-reservation\Hotel\Hotel\bin\Debug\netcoreapp3.1\Hotel.exe
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\02-exe-reservation\Hotel\Hotel\bin\Debug\netcoreapp3.1\Hotel.deps.json
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\02-exe-reservation\Hotel\Hotel\bin\Debug\netcoreapp3.1\Hotel.runtimeconfig.json
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\02-exe-reservation\Hotel\Hotel\bin\Debug\netcoreapp3.1\Hotel.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\02-exe-reservation\Hotel\Hotel\bin\Debug\netcoreapp3.1\Hotel.dll
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\02-exe-reservation\Hotel\Hotel\bin\Debug\netcoreapp3.1\Hotel.pdb
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\02-exe-reservation\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\02-exe-reservation\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\02-exe-reservation\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\02-exe-reservation\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\02-exe-reservation\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.dll
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\02-exe-reservation\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.pdb
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\02-exe-reservation\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.genruntimeconfig.cache
