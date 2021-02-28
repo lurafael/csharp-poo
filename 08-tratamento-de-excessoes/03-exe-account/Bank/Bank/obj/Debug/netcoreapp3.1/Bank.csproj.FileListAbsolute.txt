@@ -1,0 +1,13 @@
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\03-exe-account\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.exe
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\03-exe-account\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.deps.json
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\03-exe-account\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.json
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\03-exe-account\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.dev.json
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\03-exe-account\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.dll
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\03-exe-account\Bank\Bank\bin\Debug\netcoreapp3.1\Bank.pdb
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\03-exe-account\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.csprojAssemblyReference.cache
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\03-exe-account\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfoInputs.cache
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\03-exe-account\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.AssemblyInfo.cs
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\03-exe-account\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.csproj.CoreCompileInputs.cache
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\03-exe-account\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.dll
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\03-exe-account\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.pdb
+D:\repositorios-github\csharp-poo\08-tratamento-de-excessoes\03-exe-account\Bank\Bank\obj\Debug\netcoreapp3.1\Bank.genruntimeconfig.cache

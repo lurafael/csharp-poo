@@ -40,6 +40,9 @@
 ## 7 - Herança e Polimorfismo
 - [x] Exemplos e exercícios resolvidos [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/07-heranca-e-polimorfismo) :heavy_check_mark:
 
+## 8 - Tratamento de Exceções
+- [x] Exemplos e exercícios resolvidos [Clique aqui](https://github.com/lurafael/csharp-poo/blob/main/08-tratamento-de-excessoes) :heavy_check_mark:
+
 <br>
 
 Feito com :purple_heart: by [Lucas Ricci](https://www.linkedin.com/in/lucasrafaelricci/).
